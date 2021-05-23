@@ -7,12 +7,12 @@
 }
 
 .pizza-logo {
-    background: linear-gradient(to left, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0)), url(./images/img1.jpg);
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0)), url(./images/img1.jpg);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
     width: 100%;
-    min-height: 60vh;
+    min-height: 70vh;
 }
 
 .pizza-logo-two {

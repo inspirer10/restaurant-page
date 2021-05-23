@@ -6,6 +6,7 @@ import PizzasProducts from './Components/PizzasProducts';
 import DrinksProducts from './Components/DrinksProducts';
 import DessertsProducts from './Components/DessertsProducts';
 import Footer from './Components/Footer';
+import SpecialOfTheDay from './Components/SpecialOfTheDay';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
                 <div className="test"></div>
             </div>
             <DrinksProducts />
+            <SpecialOfTheDay />
             <DessertsProducts />
             <div class="pizza-logo-two"></div>
             <Footer />

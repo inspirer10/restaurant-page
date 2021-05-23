@@ -66,6 +66,12 @@
     letter-spacing: 0.8px;
 }
 
+.product-name-drinks {
+    font-size: 30px;
+    color: white;
+    letter-spacing: 1.2px;
+}
+
 .product-description {
     margin-bottom: 1rem;
     min-height: 5vw;
@@ -82,8 +88,8 @@
 }
 
 .product-info button {
-    font-size: 1rem;
-    padding: 1rem 3rem;
+    font-size: 1.25rem;
+    padding: 0.75rem 2.8rem;
     color: white;
     background: red;
     transition: .3s ease-in-out;

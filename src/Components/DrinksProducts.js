@@ -12,7 +12,7 @@ function Content() {
                     <div className="product-card" key={index}>
                         <img src={item.img} alt={item.alt} />
                         <div className="product-info">
-                            <h2 className="product-name">{item.name}</h2>
+                            <h2 className="product-name-drinks">{item.name}</h2>
                             <h3 className="product-price">{item.price}</h3>
                             <button>Add to Cart</button>
                         </div>
@@ -21,13 +21,12 @@ function Content() {
             </div>
 
             <h1>Hot drinks:</h1>
-
             <div className="products-space">
                 {dataTwo.map((item, index) => (
                     <div className="product-card" key={index}>
                         <img src={item.img} alt={item.alt} />
                         <div className="product-info">
-                            <h2 className="product-name">{item.name}</h2>
+                            <h2 className="product-name-drinks">{item.name}</h2>
                             <h3 className="product-price">{item.price}</h3>
                             <button>Add to Cart</button>
                         </div>

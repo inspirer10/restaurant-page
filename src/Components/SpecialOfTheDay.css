@@ -1,0 +1,35 @@
+.day-container {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.05)), url(../images/pasta.jpg);
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.day-container h1 {
+    font-size: clamp(3rem, 5vw, 5rem);
+}
+
+.day-container p {
+    margin-bottom: 1rem;
+    font-size: clamp(1rem, 3vw, 2.5rem);
+}
+
+.day-container button {
+    font-size: 1.7rem;
+    padding: 0.5rem 2.7rem;
+    border: none;
+    outline: none;
+    background: #ffc500;
+    transition: .35s;
+    cursor: pointer;
+}
+
+.day-container button:hover {
+    background: red;
+    color: white;
+}
