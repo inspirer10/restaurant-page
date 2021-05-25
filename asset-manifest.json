@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/restaurant-page/static/css/main.adaaf2e3.chunk.css",
+    "main.css": "/restaurant-page/static/css/main.882eb0af.chunk.css",
     "main.js": "/restaurant-page/static/js/main.66df1e9d.chunk.js",
     "main.js.map": "/restaurant-page/static/js/main.66df1e9d.chunk.js.map",
     "runtime-main.js": "/restaurant-page/static/js/runtime-main.dfa15b3f.js",
@@ -8,7 +8,7 @@
     "static/js/2.0a7cfa8c.chunk.js": "/restaurant-page/static/js/2.0a7cfa8c.chunk.js",
     "static/js/2.0a7cfa8c.chunk.js.map": "/restaurant-page/static/js/2.0a7cfa8c.chunk.js.map",
     "index.html": "/restaurant-page/index.html",
-    "static/css/main.adaaf2e3.chunk.css.map": "/restaurant-page/static/css/main.adaaf2e3.chunk.css.map",
+    "static/css/main.882eb0af.chunk.css.map": "/restaurant-page/static/css/main.882eb0af.chunk.css.map",
     "static/js/2.0a7cfa8c.chunk.js.LICENSE.txt": "/restaurant-page/static/js/2.0a7cfa8c.chunk.js.LICENSE.txt",
     "static/media/dessert1.94e9d431.jpg": "/restaurant-page/static/media/dessert1.94e9d431.jpg",
     "static/media/dessert2.ab25f264.jpg": "/restaurant-page/static/media/dessert2.ab25f264.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.dfa15b3f.js",
     "static/js/2.0a7cfa8c.chunk.js",
-    "static/css/main.adaaf2e3.chunk.css",
+    "static/css/main.882eb0af.chunk.css",
     "static/js/main.66df1e9d.chunk.js"
   ]
 }
