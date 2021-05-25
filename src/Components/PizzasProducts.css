@@ -7,7 +7,7 @@
 }
 
 .products-container h1 {
-    font-size: clamp(2.2rem, 3vw, 4.3rem);
+    font-size: clamp(2rem, 3vw, 4.3rem);
     text-align: center;
     margin-bottom: 2.2rem;
     letter-spacing: 1px;
@@ -101,4 +101,38 @@
     background: #ffc500;
     cursor: pointer;
     color: black;
+}
+
+@media screen and (max-width: 767px) {
+    .product-name-drinks {
+        font-size: 2.4rem;
+        letter-spacing: 0;
+    }
+    .products-container {
+        padding: 2rem calc((100vw - 1300px) /4);
+    }
+    .product-card {
+        width: 84vw;
+    }
+    .product-price {
+        font-size: 1.8rem;
+        margin-bottom: 0.5rem;
+    }
+    .product-card img {
+        height: 82vw;
+        min-width: 84vw;
+        box-shadow: 6px 6px #fdc500;
+    }
+    .product-info {
+        padding: 1.1rem 0 4.5rem;
+    }
+    .product-name {
+        font-weight: bold;
+        letter-spacing: 1px;
+        font-size: 28px;
+    }
+    .product-info button {
+        font-size: 1.5rem;
+        padding: 0.6rem 2.9rem;
+    }
 }

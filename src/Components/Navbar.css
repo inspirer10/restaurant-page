@@ -54,10 +54,39 @@ nav {
     font-size: 2rem;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 800px) {
+    nav {
+        justify-content: flex-start;
+        margin-left: 10vw;
+    }
+    .nav-icon {
+        top: -15px;
+        right: 0;
+    }
     .nav-link {
-        position: absolute;
-        top: 10px;
-        left: 25px;
+        font-size: 2.2rem;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    nav {
+        margin-left: 7vw;
+    }
+    .nav-link {
+        font-size: 2.1rem;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .nav-icon p {
+        transform: translate(-130%, 100%);
+        font-weight: bold;
+        font-size: 1.4rem;
+    }
+    .nav-link {
+        font-size: 1.85rem;
+    }
+    .nav-icon {
+        top: -20px;
     }
 }

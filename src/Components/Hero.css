@@ -64,6 +64,14 @@
 }
 
 @media screen and (max-width: 560px) {
+    .hero-items button {
+        background: #ffc500;
+        color: black;
+    }
+    .hero-items button:hover {
+        background: red;
+        color: white;
+    }
     .hero-items {
         letter-spacing: 2px;
         padding: 0rem;

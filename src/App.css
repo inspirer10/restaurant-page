@@ -23,3 +23,14 @@
     width: 100%;
     min-height: 480px;
 }
+
+@media screen and (max-width: 767px) {
+    .pizza-logo {
+        background-attachment: scroll;
+        min-height: 70vh;
+    }
+    .pizza-logo-two {
+        background-attachment: scroll;
+        min-height: 50vh;
+    }
+}

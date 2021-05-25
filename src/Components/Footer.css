@@ -54,7 +54,14 @@ footer {
 }
 
 @media screen and (max-width: 787px) {
-    .socials {
-        flex-direction: column;
+    .footer-restaurant {
+        font-size: 1.45rem;
+    }
+    .footer-link {
+        font-size: 1.35rem;
+        margin: 0 9px;
+    }
+    .footer-content {
+        padding: 2.5rem 0.75rem 1.5rem 0.9rem;
     }
 }
