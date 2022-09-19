@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/restaurant-page/static/css/main.67a4e9d4.chunk.css",
-    "main.js": "/restaurant-page/static/js/main.558991ac.chunk.js",
-    "main.js.map": "/restaurant-page/static/js/main.558991ac.chunk.js.map",
+    "main.css": "/restaurant-page/static/css/main.f1df5ccf.chunk.css",
+    "main.js": "/restaurant-page/static/js/main.cab03dc5.chunk.js",
+    "main.js.map": "/restaurant-page/static/js/main.cab03dc5.chunk.js.map",
     "runtime-main.js": "/restaurant-page/static/js/runtime-main.dfa15b3f.js",
     "runtime-main.js.map": "/restaurant-page/static/js/runtime-main.dfa15b3f.js.map",
-    "static/js/2.08507167.chunk.js": "/restaurant-page/static/js/2.08507167.chunk.js",
-    "static/js/2.08507167.chunk.js.map": "/restaurant-page/static/js/2.08507167.chunk.js.map",
+    "static/js/2.c70c79a6.chunk.js": "/restaurant-page/static/js/2.c70c79a6.chunk.js",
+    "static/js/2.c70c79a6.chunk.js.map": "/restaurant-page/static/js/2.c70c79a6.chunk.js.map",
     "index.html": "/restaurant-page/index.html",
-    "static/css/main.67a4e9d4.chunk.css.map": "/restaurant-page/static/css/main.67a4e9d4.chunk.css.map",
-    "static/js/2.08507167.chunk.js.LICENSE.txt": "/restaurant-page/static/js/2.08507167.chunk.js.LICENSE.txt",
+    "static/css/main.f1df5ccf.chunk.css.map": "/restaurant-page/static/css/main.f1df5ccf.chunk.css.map",
+    "static/js/2.c70c79a6.chunk.js.LICENSE.txt": "/restaurant-page/static/js/2.c70c79a6.chunk.js.LICENSE.txt",
     "static/media/Cart.css": "/restaurant-page/static/media/cartBackground.fe513800.jpg",
     "static/media/dessert1.2c3ebfec.jpg": "/restaurant-page/static/media/dessert1.2c3ebfec.jpg",
     "static/media/dessert2.6c9be053.jpg": "/restaurant-page/static/media/dessert2.6c9be053.jpg",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.dfa15b3f.js",
-    "static/js/2.08507167.chunk.js",
-    "static/css/main.67a4e9d4.chunk.css",
-    "static/js/main.558991ac.chunk.js"
+    "static/js/2.c70c79a6.chunk.js",
+    "static/css/main.f1df5ccf.chunk.css",
+    "static/js/main.cab03dc5.chunk.js"
   ]
 }
